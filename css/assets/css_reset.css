@@ -1,0 +1,27 @@
+body, section, aside, ul , h2, h1, img, figure, p, ol, label, option, select, input, form, footer, option, textarea{
+  margin: 0px;
+  font: inherit;
+  border: 0px;
+  padding: 0px;
+  list-style: none;
+}
+body {
+  line-height: 1.5;
+}
+
+ol {
+  /* all: none; */
+  list-style: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.ingredients-list {
+  list-style: none;
+}
+
+img {
+  width: inherit;
+}
